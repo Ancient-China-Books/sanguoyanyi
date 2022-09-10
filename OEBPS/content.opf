@@ -2,10 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="upKqla3JqGiEDyGDhdd9pp6">
   <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <dc:title>三國演義</dc:title>
-    <dc:creator opf:role="aut" opf:file-as="羅貫中 &amp; 毛綸 &amp; 毛宗崗">羅貫中</dc:creator>
-    <dc:creator opf:role="aut">毛綸</dc:creator>
-    <dc:creator opf:role="aut">毛宗崗</dc:creator>
-    <dc:contributor opf:role="bkp">calibre (6.3.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:creator opf:role="aut" opf:file-as="明·羅貫中 &amp; 清·毛宗崗">明·羅貫中</dc:creator>
+    <dc:creator opf:role="aut">清·毛宗崗</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (6.4.0) [https://calibre-ebook.com]</dc:contributor>
     <dc:date>0101-01-01T00:00:00+00:00</dc:date>
     <dc:description>&lt;div&gt;
 &lt;p&gt;歷史小説，全名三國志通俗演義，元末明初羅貫中著。演三國事，起自桃園結義，止於西晉統一。取材於陳壽三國志及裴松之注，並博採民間故事傳説。按唐代已流傳三國故事，宋有説“三分”的，元時盛行三國戲，至平年間新安虞氏刻全相三國志平話一種，分上、中、下三卷。羅氏總其成，編成此書。現存最早的刊本爲明嘉靖元年刊本，全書二十四卷，分二百四十則。又有鍾惺（伯敬）、李贄（卓吾）評點本。清康熙年間毛宗崗仿金聖歎改西廂水滸例，增删改削羅本，定爲第一才子書，卽現在通行的一百二十回本，𥳑稱三國演義。此書描寫了三國時期各箇軍事集團之間的矛盾和鬥爭，塑造了劉備關羽張飛諸葛亮曹操等人物形象，行文半文半白，敘事技巧相當完美，但應注意其係講史演義，並非完全真實的歷史。參閲魯迅中國小説史略十四。&lt;/p&gt;
@@ -19,14 +18,14 @@
     <dc:subject>羅貫中</dc:subject>
     <dc:subject>小說</dc:subject>
     <dc:language>zh-TW</dc:language>
-    <dc:identifier opf:scheme="calibre">18db50cd-8b4c-4b45-b975-6dad92c0a8f0</dc:identifier>
+    <dc:identifier opf:scheme="calibre">3e21c9eb-25d7-4852-91f1-8d97bae1c767</dc:identifier>
     <dc:identifier opf:scheme="ISBN">9787101067316</dc:identifier>
     <dc:identifier opf:scheme="NEW_DOUBAN">3810698</dc:identifier>
     <meta content="2022-05-24T13:44:09.382584+00:00" name="calibre:timestamp"/>
     <meta content="三國演義" name="calibre:title_sort"/>
     <meta name="cover" content="cover"/>
     <meta content="horizontal-lr" name="primary-writing-mode"/>
-    <meta content="{&quot;羅貫中&quot;: &quot;&quot;, &quot;毛綸&quot;: &quot;&quot;, &quot;毛宗崗&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta content="{&quot;明·羅貫中&quot;: &quot;&quot;, &quot;清·毛宗崗&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
     <meta content="四大名著" name="calibre:series"/>
     <meta content="1.0" name="calibre:series_index"/>
     <meta content="10.0" name="calibre:rating"/>
@@ -160,10 +159,10 @@
     <item id="page_css" href="Styles/page_styles.css" media-type="text/css"/>
     <item id="css" href="Styles/stylesheet.css" media-type="text/css"/>
     <item id="cover" href="Images/cover.jpeg" media-type="image/jpeg"/>
+    <item id="biaodian" href="Fonts/biaodian.otf" media-type="application/vnd.ms-opentype"/>
     <item id="fsung-2" href="Fonts/FSung-2.ttf" media-type="application/x-font-truetype"/>
     <item id="fsung-f" href="Fonts/FSung-F.ttf" media-type="application/x-font-truetype"/>
     <item id="noto-sc" href="Fonts/NotoSerifSC-Medium.otf" media-type="application/vnd.ms-opentype"/>
-    <item id="biaodian" href="Fonts/biaodian.otf" media-type="application/vnd.ms-opentype"/>
     <item id="main.js" href="Styles/main.js" media-type="application/javascript"/>
   </manifest>
   <spine page-progression-direction="ltr" toc="ncx">
